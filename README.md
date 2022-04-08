@@ -1,2 +1,1 @@
-# PROYECTO-48
-proyecto de la clase 48
+# PROC18_LP_AM1
